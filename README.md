@@ -4,7 +4,7 @@
 abc
 
 ## Version
-v 2.1 
+**2.1** 
 - Loading ESA WorldCover and masking agriculture land
 - Applying ESA WorldCover reference area for calculation vegetation indices and classification
 
@@ -13,7 +13,11 @@ v 2.0
 - Print results do RF classifier into the console 
 - Adding AOI boundaries into the map 
 - Optimalization of results visualization 
-- Validation on RF classification results 
+- Validation on RF classification results
+
+v 1.3
+- Calculate and print area of NDVI and SAVI masks (3 decimal places) 
+- Improve clustering results in console (3 decimal places + km2 labels after value) 
 
 ## Requirements
 - A **Google Earth Engine** account.
