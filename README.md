@@ -1,4 +1,5 @@
-# Geospatial identification of the extent of war damage on agricultural land in the Google Earth Engine cloud environment 
+# GIDAL **G**eospatial **I**dentification of the extent of war damage on agricultural land in the Google Earth Engine cloud environment 
+
 
 ## Overview
 abc
