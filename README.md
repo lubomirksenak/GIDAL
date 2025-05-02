@@ -4,7 +4,7 @@
 abc
 
 ## Version
-**2.1** 
+**version 2.1** 
 - Loading ESA WorldCover and masking agriculture land
 - Applying ESA WorldCover reference area for calculation vegetation indices and classification
 
