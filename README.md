@@ -1,4 +1,5 @@
-# G I D A L - **G**eospatial **I**dentification of the Extent of War **D**amage on **A**gricultural **L**and in the Google Earth Engine Cloud Environment
+# G I D A L 
+#**G**eospatial **I**dentification of the Extent of War **D**amage on **A**gricultural **L**and in the Google Earth Engine Cloud Environment
 
 
 
