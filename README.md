@@ -1,5 +1,5 @@
-# <span style="color:red">GIDAL</span>
-<span style="color:red">Geospatial **Identification of the Extent of War Damage on Agricultural Land in the Google Earth Engine Cloud Environment</span>
+# G I D A L
+Geospatial **I**dentification of the Extent of War Damage on Agricultural Land in the Google Earth Engine Cloud Environment</span>
 
 
 ## Overview
