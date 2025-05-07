@@ -4,7 +4,7 @@
 ## Overview
 This code enables the geospatial identification of war-related damage on agricultural land using Google Earth Engine. It processes Sentinel-2 imagery to calculate vegetation indices (NDVI, SAVI), applies masks for agricultural areas, and performs both unsupervised (K-Means) and supervised (Random Forest) classification. The script computes the area of vegetation and different land cover classes, providing quantitative outputs for each category. Finally, it visualizes and prepares the results for export.
 
-![text](https://github.com/lubomirksenak/GIDAL/blob/main/cover.png)
+![image](https://github.com/lubomirksenak/GIDAL/blob/main/cover.png)
 
 ## Authors
 - Ľubomír Kseňak and Jakub Kuraj - Technical university of Košice, Slovakia - 2025
