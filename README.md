@@ -10,8 +10,7 @@ This project presents
 
 The script 
 
-![image](https://github.com/user-attachments/assets/78ab0e6e-5bc4-45a3-955b-e88f45b113bb)
-Figure - Annual water extent of the Veľká Domaša reservoir from 2018 to 2023 derived using 485 NDWI. Light areas indicate the maximum water levels, and dark areas indicate the minimum water levels for each year (c).
+![image]
 
 ## 🛰️ Data Sources
 
