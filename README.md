@@ -1,55 +1,48 @@
-# G I D A L 
-**G**eospatial **I**dentification of the Extent of War **D**amage on **A**gricultural **L**and in the Google Earth Engine Cloud Environment
+# GIDAL 
+**G**eospatial **I**ndicators of **D**ynamic **A**gricultural **L**and
 
-## Overview
-This code enables the geospatial identification of war-related damage on agricultural land using Google Earth Engine. It processes Sentinel-2 imagery to calculate vegetation indices (NDVI, SAVI), applies masks for agricultural areas, and performs both unsupervised (K-Means) and supervised (Random Forest) classification. The script computes the area of vegetation and different land cover classes, providing quantitative outputs for each category. Finally, it visualizes and prepares the results for export.
+This repository contains the code used in the research article:  
+**"Evaluation"** on adress: https://www
 
-![image](https://github.com/lubomirksenak/GIDAL/blob/main/cover.png)
+## 🔍 Description
 
-## Authors
-- Ľubomír Kseňak and Jakub Kuraj - Technical university of Košice, Slovakia - 2025
+This project presents 
 
-## Version
-**v2.1** 
-- Loading ESA WorldCover and masking agriculture land
-- Applying ESA WorldCover reference area for calculation vegetation indices and classification
+The script 
 
-**v2.0** 
-- Application of Random Forest classification algorithm 
-- Print results do RF classifier into the console 
-- Adding AOI boundaries into the map 
-- Optimalization of results visualization 
-- Validation on RF classification results
+![image](https://github.com/user-attachments/assets/78ab0e6e-5bc4-45a3-955b-e88f45b113bb)
+Figure - Annual water extent of the Veľká Domaša reservoir from 2018 to 2023 derived using 485 NDWI. Light areas indicate the maximum water levels, and dark areas indicate the minimum water levels for each year (c).
 
-**v1.3** 
-- Calculate and print area of NDVI and SAVI masks (3 decimal places) 
-- Improve clustering results in console (3 decimal places + km2 labels after value)
+## 🛰️ Data Sources
 
-**v1.2** 
-- Correct labeling of classes during clustering 
-- Voluntary export image to Google drive 
+- **Sen
 
-**v1.1** 
-- K-Means clusters area results printed separately in console (in km square) 
+## ⚙️ Methodology Overview
 
-**v1.0** 
-- AOI specification by shapefile 
-- K-Means clustering calculation 
-- Data visualization 
+- Sel
 
-**v0.2** 
-- Setting transparent background for false values in masks 
-- Adding selected image to map view 
+## 📁 Structure
 
-**v0.1** 
-- Creation of script 
-- Data Selection 
-- Calculation NDVI and SAVI 
-- Data visualization 
+## ▶️ How to Use
 
-## Requirements
-- A **Google Earth Engine** account.
-- Internet access and a compatible web browser.
+1. Open 
 
-## License
-- This project is released under the **MIT License**. Feel free to modify and use it for your applications.
+## 📊 Outputs
+
+- Water 
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 🔗 Citation
+
+If you use this script or data in your research, please cite the corresponding publication:
+- Kseňak, Ľ.
+
+## 📬 Contact
+
+For questions or collaboration, contact:  
+**Dr. Ľubomír Kseňak**  
+Technical university of Košice, Slovakia  
+lubomir.ksenak@tuke.sk
