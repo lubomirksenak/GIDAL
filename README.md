@@ -1,3 +1,4 @@
+<img width="3487" height="3270" alt="Obrázok11" src="https://github.com/user-attachments/assets/5a964b5a-75bc-4014-82e2-02164b7655c2" />
 # GIDAL 
 **G**eospatial **I**ndicators of **D**ynamic **A**gricultural **L**andscapes
 
@@ -22,7 +23,7 @@ The workflow combines:
 
 The scripts is implemented in Python, with Google Earth Engine used in the initial development stages.
 
-![image](<img width="3487" height="3270" alt="Obrázok11" src="https://github.com/user-attachments/assets/3ce0ade4-7291-4c37-b597-1a641a1946e2" />)
+![image](https://github.com/user-attachments/assets/5a964b5a-75bc-4014-82e2-02164b7655c2)
 
 Figure - Spatial distribution of agricultural surface classes and classifier disagreement among RF, SVM, and GTB in the Volnovaskyi district (July 2024)
 
