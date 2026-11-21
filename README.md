@@ -28,21 +28,36 @@ Figure - Spatial distribution of agricultural surface classes and classifier dis
 
 ## 🛰️ Data Sources
 
-- **Sen
+- **Sentinel-2 Level-2A (surface reflectance)** – Copernicus Programme, accessed through Google Earth Engine and the Copernicus Data Space Ecosystem.
+- **Sentinel-2 Scene Classification Layer (SCL)** – cloud and invalid-pixel masking.
+- **Study areas** – Kramatorskyi, Pokrovskyi, Polohivskyi, and Volnovaskyi districts, Ukraine.
+- **Temporal coverage** – April–September 2024 (seasonal analysis) and July 2020–2025 (interannual analysis).
 
 ## ⚙️ Methodology Overview
 
-- Sel
+- Acquire and preprocess Sentinel-2 Level-2A imagery with SCL-based cloud masking.
+- Calculate spectral indices (NDVI, SAVI, BSI, and NDWI).
+- Generate seasonal and interannual spectral composites.
+- Define four rule-based pseudo-reference land-cover classes.
+- Apply K-means, Random Forest, and SVM classification algorithms.
+- Assess classification agreement using OA, Cohen's kappa, and Macro-F1.
+- Analyze agricultural vegetation dynamics and export thematic maps.
 
 ## 📁 Structure
 
+TBA
+
 ## ▶️ How to Use
 
-1. Open 
+TBA 
 
 ## 📊 Outputs
 
-- Water 
+- Thematic maps of agricultural vegetation and land-cover classes.
+- Seasonal spectral index maps (April–September 2024).
+- Interannual vegetation change maps (2020–2025).
+- Classification performance metrics (OA, Cohen's kappa, and Macro-F1).
+- Statistical summaries and CSV files for further analysis.
 
 ## 📜 License
 
@@ -51,7 +66,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 🔗 Citation
 
 If you use this script or data in your research, please cite the corresponding publication:
-- Kseňak, Ľ.
+- Kseňak, Ľ. et. al. TBA
 
 ## 📬 Contact
 
