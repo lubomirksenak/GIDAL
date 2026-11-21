@@ -1,5 +1,4 @@
-<img width="3487" height="3270" alt="Obrázok11" src="https://github.com/user-attachments/assets/5a964b5a-75bc-4014-82e2-02164b7655c2" />
-# GIDAL 
+# GIDAL
 **G**eospatial **I**ndicators of **D**ynamic **A**gricultural **L**andscapes
 
 ⚠️ This repository is currently under development. The code and documentation are being prepared. More details will be available soon. ⚠️
