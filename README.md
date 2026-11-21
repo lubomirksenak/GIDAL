@@ -8,7 +8,27 @@ This repository contains the code used in the research article:
 
 ## 🔍 Description
 
-This project presents 
+GIDAL provides an integrated workflow for assessing spatiotemporal agricultural vegetation changes using Sentinel-2 satellite imagery, spectral indices, and machine learning techniques. The repository focuses on four conflict-affected districts in eastern and southern Ukraine: Kramatorskyi, Pokrovskyi, Polohivskyi, and Volnovaskyi.
+
+The workflow combines:
+
+- Sentinel-2 Level-2A imagery and cloud masking,
+
+- extraction of spectral indices (NDVI, SAVI, BSI, and NDWI),
+
+- unsupervised classification using K-means clustering,
+
+- supervised classification using Random Forest and Support Vector Machine,
+
+- classification performance assessment using OA, Cohen's Kappa, and Macro-F1,
+
+- seasonal agricultural vegetation monitoring (April–September 2024),
+
+- interannual vegetation change assessment (2020–2025),
+
+- generation of thematic maps and statistical outputs.
+
+The workflow is implemented in Python, with Google Earth Engine used in the initial development stages.
 
 The script 
 
