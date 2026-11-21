@@ -4,7 +4,7 @@
 ⚠️ This repository is currently under development. The code and documentation are being prepared. More details will be available soon. ⚠️
 
 This repository contains the code used in the research article:  
-**"An Integrated Spectral–Machine Learning Framework for Spa-tiotemporal Agricultural Vegetation Change Assessment"** on adress: (to be added after article acceptance)
+**"An Integrated Spectral–Machine Learning Framework for Spatiotemporal Agricultural Vegetation Change Assessment"** on adress: (to be added after article acceptance)
 
 ## 🔍 Description
 
