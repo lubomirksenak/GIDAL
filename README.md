@@ -1,10 +1,10 @@
 # GIDAL 
-**G**eospatial **I**ndicators of **D**ynamic **A**gricultural **L**and
+**G**eospatial **I**ndicators of **D**ynamic **A**gricultural **L**andscapes
 
 ⚠️ This repository is currently under development. The code and documentation are being prepared. More details will be available soon. ⚠️
 
 This repository contains the code used in the research article:  
-**"Evaluation"** on adress: https://www
+**"An Integrated Spectral–Machine Learning Framework for Spa-tiotemporal Agricultural Vegetation Change Assessment"** on adress: (to be added after article acceptance)
 
 ## 🔍 Description
 
