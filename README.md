@@ -22,9 +22,9 @@ The workflow combines:
 
 The scripts is implemented in Python, with Google Earth Engine used in the initial development stages.
 
-![image](https://github.com/user-attachments/assets/922b90c8-6eeb-498b-974e-5c6684e06294)
+![image](<img width="3487" height="3270" alt="Obrázok11" src="https://github.com/user-attachments/assets/3ce0ade4-7291-4c37-b597-1a641a1946e2" />)
 
-Figure - Comparison of best speckle filters per classification model and polarization for AOI Urban (Sentinel-1, 11 October 2024)
+Figure - Spatial distribution of agricultural surface classes and classifier disagreement among RF, SVM, and GTB in the Volnovaskyi district (July 2024)
 
 ## 🛰️ Data Sources
 
